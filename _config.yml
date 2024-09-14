@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Pengfei Li/Personal website"
+title                    : "Dr. Pengfei Li|Astrophysicist"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "PengfeiLi0606/pengfeili0606.github.io"
 author:
   # Biographic information
   avatar           : "PLi2024.jpg"
-  name             : "Astrophysicist"
+  name             : "Assistant professor"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant professor at the School of Astronomy and Space Science at Nanjing University"
+  bio              : #"Assistant professor at the School of Astronomy and Space Science at Nanjing University"
   location         : "Nanjing, JiangSu, China"
   employer         : "Nanjing University"
   uri              : "https://astronomy.nju.edu.cn/EN/People/AssistantProfessor/20240913/i291446.html"# URL
