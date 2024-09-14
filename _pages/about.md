@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: #"Pengfei Li"
+title: "Pengfei Li"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
-======
+
 I am an assistant professor at the School of Astronomy and Space Science at Nanjing University. Before that I was a Humboldt fellow at Leibnize-Institute for Astrophysics at Potsdam (AIP) in Germany. I obtained my PhD from Case Western Reserve University in August 2020.
 
 Research interests
