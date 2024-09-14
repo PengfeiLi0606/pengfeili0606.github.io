@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Pengfei Li"
-author_profile: false
+title: #"Pengfei Li"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
