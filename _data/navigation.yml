@@ -10,19 +10,19 @@ main:
     url: /cv/
     
   - title: "Research"
-    url: /publications/
+    url: /research/
     
   - title: "Teaching"
     url: /teaching/ 
     
   - title: "Group"
-    url: /portfolio/
+    url: /group/
     
   - title: "Data"
-    url: /talks/     
+    url: /data/     
     
   - title: "Code"
-    url: /markdown/
+    url: /code/
  
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/
