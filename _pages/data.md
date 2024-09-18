@@ -12,4 +12,4 @@ redirect_from:
 ===================
 
 Here are the tables for the electron number density profiles, temperature profiles, gas mass profiles, hydrostatic mass profiles of the 22 eROSITA clusters in Li et al. (2024). 
-Download them [here](https://raw.github.com/PengfeiLi0606/pengfeili0606.github.io/blob/master/_pages/_dataset/eROClusters.zip). 
+Download them [here](https://github.com/PengfeiLi0606/pengfeili0606.github.io/raw/master/files/eROClusters.zip). 
