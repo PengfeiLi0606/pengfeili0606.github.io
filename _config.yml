@@ -22,9 +22,9 @@ repository               : "PengfeiLi0606/pengfeili0606.github.io"
 author:
   # Biographic information
   avatar           : "PLi2024.jpg"
-  name             : "Assistant professor"
+  name             : "Dr. Pengfei Li"
   pronouns         : # example: "she/her"  
-  bio              : "School of Astronomy and Space Science, Nanjing University"
+  bio              : "Assistant professor, School of Astronomy and Space Science, Nanjing University"
   location         : "Nanjing, China"
   employer         : "Nanjing University"
   uri              : "https://astronomy.nju.edu.cn/EN/People/AssistantProfessor/20240913/i291446.html"# URL
@@ -128,7 +128,7 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter:
+twitter: @PengfeiLi0606
   username               : &twitter
 facebook:
   username               :
