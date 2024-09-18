@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "PLi2024.jpg"
   name             : "Dr. Pengfei Li"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"# example: "she/her"  
   bio              : "Assistant professor, School of Astronomy and Space Science, Nanjing University"
   location         : "Nanjing, China"
   employer         : "Nanjing University"
@@ -128,7 +128,7 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter: @PengfeiLi0606
+twitter: 
   username               : &twitter
 facebook:
   username               :
