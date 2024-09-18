@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-22 eROSITA clusters
+X-ray data of eROSITA clusters
 -------------------
 
 Here are the tables for the electron number density profiles, temperature profiles, gas mass profiles, hydrostatic mass profiles of the 22 eROSITA clusters in Li et al. (2024). 
