@@ -11,7 +11,7 @@ redirect_from:
 X-ray data of eROSITA clusters
 -------------------
 
-Here are the tables for the electron number density profiles, temperature profiles, gas mass profiles, hydrostatic mass profiles of the 22 eROSITA clusters in Li et al. (2024). 
+Here are the tables for the electron number density profiles, temperature profiles, gas mass profiles, hydrostatic mass profiles of the 22 eROSITA clusters in [Li et al. (2024, A&A)](https://ui.adsabs.harvard.edu/abs/2024arXiv241109735L/abstract). 
 Download them [here](https://github.com/PengfeiLi0606/pengfeili0606.github.io/raw/master/files/eROClusters.zip). 
 
 Kinematic data for HIFLUGCS clusters
