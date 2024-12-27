@@ -11,7 +11,7 @@ redirect_from:
 X-ray data of eROSITA clusters
 -------------------
 
-Here are the tables for the electron number density profiles, temperature profiles, gas mass profiles, hydrostatic mass profiles of the 22 eROSITA clusters in [Li et al. (2024, A&A)](https://ui.adsabs.harvard.edu/abs/2024arXiv241109735L/abstract). 
+Here are the tables for the electron number density profiles, temperature profiles, gas mass profiles, hydrostatic mass profiles of the 22 eROSITA clusters in [Li et al. (2024, A&A)](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.253L/abstract). 
 Download them [here](https://github.com/PengfeiLi0606/pengfeili0606.github.io/raw/master/files/eROClusters.zip). 
 
 Kinematic data for HIFLUGCS clusters
@@ -21,7 +21,7 @@ Here are the dynamical mass profiles measured with galaxy kinematics for 10 HIFL
 Baryonic models for the Milky Way
 --------------------------------
 
-Here I include 12 baryonic models for the Milky Way. Both the expected circular velocity and surface mass density are given. Most of these models have a triaxial bar. Their circular velocity and surface mass density are azimuthally averaged. The data will be provided once the paper is published. 
+Here I include the data of 12 baryonic models (Model A&S, Bovy2015, Model I, McMillan2017, B2, McGaugh2019, E2CM, E2dJ, E2J, G2CM, G2dJ, G2J) for the Milky Way from Li et al. (2025). Both the expected circular velocity and surface mass density are given. Most of these models have a triaxial bar. Their circular velocity and surface mass density are azimuthally averaged. Download them [here](https://github.com/PengfeiLi0606/pengfeili0606.github.io/raw/master/files/Mass_Models.zip) 
 
 Dark matter halos for 175 late-type galaxies
 -------------------------------------------------------------
